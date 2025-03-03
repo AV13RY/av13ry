@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am currently working on:<br><br>A BSL (British Sign Language) -to-text web application, utilising python, next.js and react.<br>The CNN is developed with tensorflow :)
-
+I am currently working on:<br><br>Kali, The AI Cooperative Calendar app, soon available on iOS and Android<br>
+Previously worked on::<br><br>A BSL (British Sign Language) -to-text web application, utilising python, next.js and react.<br>The CNN is developed with tensorflow :)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pRaDe3hN7n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avie.ry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jackmcgillivray) 
